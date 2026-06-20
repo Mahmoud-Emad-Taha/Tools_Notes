@@ -1,2 +1,3 @@
 # Tools_Notes
-This repo will have all the notes i take for any Tool i learn 
+In this Repo You will find all the tools i learn and the notes i take while i study it 
+
